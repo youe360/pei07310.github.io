@@ -1,10 +1,11 @@
 动物星球,http://f8.apps8888.com:8080/live/1125/fe3f44d83db01b43ae538dd057f06350/index.m3u8
 国家野生,http://f8.apps8888.com:8080/live/1038/14609b15b757bb8120d318ade317eeb9/index.m3u8
 好莱坞电影,http://f8.apps8888.com:8080/live/37/cecaf4fb701d27e6c52ad04d3b882c62/index.m3u8
-FOX动作电影, http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
-FOX优质电影, http://58.99.33.9:1935/liveedge2/live_69_1.stream/chunklist2083437237.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+FOX动作电影,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+FOX优质电影,http://58.99.33.9:1935/liveedge2/live_69_1.stream/chunklist2083437237.m3u8?checkCode=37050688asdfsdfsadf&aa=as
 CineMAX,http://f8.apps8888.com:8080/live/346/e5190ee8aab10f5823a75703f0264171/index.m3u8
 FOX优质电影,http://f8.apps8888.com:8080/live/385/393e0f8c8bf01fbaf860209d1184956d/index.m3u8
+FOX动作电影,http://192.154.103.75:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 东森新闻,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1593610026/ei/yjr8Xp26CZmWkwaBsaLACg/ip/198.255.103.2/id/RaIJ767Bj_M.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r1---sn-a5msen76.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/4430/mh/zp/mm/44/mn/sn-a5msen76/ms/lva/mv/m/mvi/0/pl/24/dover/11/keepalive/yes/mt/1593588315/sparams/expire
 民视,http://ff.apps1818.com:8080/live/26/9db6367caf56e1265bc0b26ca0c81cc4/index.m3u8
 民视,http://ff.apps1818.com:8080/live/336/d81a60510844e9859a203834b2a11cfd/index.m3u8
