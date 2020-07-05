@@ -1,4 +1,3 @@
-Me,#genre#
 动物星球,http://f8.apps8888.com:8080/live/1125/fe3f44d83db01b43ae538dd057f06350/index.m3u8
 国家野生,http://f8.apps8888.com:8080/live/1038/14609b15b757bb8120d318ade317eeb9/index.m3u8
 好莱坞电影,http://f8.apps8888.com:8080/live/37/cecaf4fb701d27e6c52ad04d3b882c62/index.m3u8
