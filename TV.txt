@@ -15,6 +15,9 @@ HBO,http://t.gerss.cn/dl/htv.php?id=65
 FOX MOVIES HD,http://t.gerss.cn/dl/htv.php?id=69
 FOX MOVIES HD1,https://pullstream-ucan.speedws.com/live/aaa1038zzz/playlist.m3u8
 FOX HD,p5p://47.244.180.114:9906/5db940d0000e9efd53bfe0277cb553dc&link=am0708lgif
+FOX MOVIES HD2,http://58.99.33.9:1935/liveedge2/live_69_1.stream/chunklist2083437237.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+FOX动作电影,http://192.154.103.75:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+FOX动作电影1,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 FOX Action,p5p://47.244.180.114:9906/5db948fd0007189153dfcdfb7f575fc2&link=am0708lgif
 CINEMAX,http://t.gerss.cn/dl/htv.php?id=71
 CineMAX,p5p://47.244.180.114:9906/5db9459b000e029653d298f021b64405&link=am0708lgif
