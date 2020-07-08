@@ -1,3 +1,4 @@
+TV,#genre#
 江苏卫视,http://112.50.243.8/PLTV/88888888/224/3221225847/1.m3u8
 江苏卫视1,http://101.71.255.229:6610/zjhs/2/10028/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 動物星球,http://t.gerss.cn/dl/htv.php?id=12
