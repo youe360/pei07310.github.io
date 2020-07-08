@@ -8,6 +8,7 @@ HBO,http://t.gerss.cn/dl/htv.php?id=65
 東森洋片台,http://t.gerss.cn/dl/htv.php?id=66
 東森洋片HD,http://125.227.210.37:41320/VideoInput/play.ts
 东森洋片,p5p://47.244.180.114:9906/5db94609000c575753d44633704f1724&link=am0708lgif
+東森洋片,mitv://198.255.74.57:12196/5efcb9af00047c529537108249281ad2.ts
 好萊塢電影,http://t.gerss.cn/dl/htv.php?id=68
 好萊塢電影1,http://125.227.210.37:47862/VideoInput/play.ts
 好莱坞电影,p5p://47.244.180.114:9906/5db94a0e000c946053e3f9ca114c5efa&link=am0708lgif
@@ -31,6 +32,7 @@ HBO強檔,http://t.gerss.cn/dl/htv.php?id=223
 HBO Hits,p5p://47.244.180.114:9906/5db9458e000792a353d264823a7640f0&link=am0708lgif
 Star Movies HD,http://125.227.210.37:61495/VideoInput/play.ts
 龙华洋片,p5p://47.244.180.114:9906/5db9461600030af853d476994e892955&link=am0708lgif
+龍華洋片,mitv://198.255.74.57:12196/5efcb9b20003b4ad95371c071f5b1c8b.ts
 
 
 
