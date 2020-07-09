@@ -29,7 +29,7 @@
 江苏卫视18,http://39.135.19.139:18890/PLTV/88888888/224/3221226029/1/index.m3u8?fmt=ts2hls
 江苏卫视19,http://live.hcs.cmvideo.cn:8088/wd_r2/cctv/jiangsuhd/2500/index.m3u8?ProgramID=&encrypt=
 江蘇衛視 HD1,mitv://198.255.74.57:12196/5efcb997000313129536b266e45e1b57.ts
-
+江苏卫视20,http://183.207.249.34:80/PLTV/4/224/3221227402/index.m3u8?UserName=18851042983&MAC=8C:6D:50:4C:91:52&OTTUserToken=18851042983-8C:6D:50:4C:91:52&accountinfo=yvxefADiHI1MXW5gaIZO5hiIlKSLiJtBXQdhumM1dH2IsIJmP1UxBAq03L3WxNlzfOIX59FPdAado7h9s5ZUS0%2BwWipdMTdABhAgmyZ6eCKKsykTisuszwEjI9aL4uWBdT8msbwc%2FhLALs%2BBuvnRyw%3D%3D%3A20180401122751%2C18851042983%2C112.25.7.202%2C20180401122751%2CG_JIANGSU-HQ%2C1B4CEFC7EE6192335ED71DF86C50D75E%2C%2C0%2C1%2C-1%2C%2C2%2C2000007279%2C2%2C-3%2C2%2CEND&GuardEncType=2&servicetype=1&icpid=88888888&from=5&hms_devid=4344#http://112.17.40.140/PLTV/88888888/224/3221226414/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226140/index.m3u8#http://ivi.bupt.edu.cn/hls/jshd.m3u8#http://39.135.17.183:6610/PLTV/88888888/224/3221225751/1/1000.m3u8#http://111.40.205.87/PLTV/88888888/224/3221225613/index.m3u8#http://ott.js.chinamobile.com/PLTV/3/224/3221227561/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226567/index.m3u8
 
 動物星球,#genre#
 動物星球,http://t.gerss.cn/dl/htv.php?id=12
@@ -69,6 +69,7 @@ Nat Geo Wild,mitv://51.79.41.138:18912/5b1409170007d3427577583c60df8661.ts
 国家地理野生3,http://39.134.135.12:80/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1594133835-1-1579912753.hls.ts
 國家地理野生頻道 HD2,mitv://198.255.74.57:12196/5efcb9a60006a8879536ede996e4d711.ts
 國家野生,http://f9.apps1818.com:8080/live/1038/14609b15b757bb8120d318ade317eeb9/index.m3u8
+國家地理野生頻道 HD3,mitv://198.255.74.57:12396/5e502063000465923d328a746d4c01dd.ts
 
 HBO,#genre#
 HBO,http://t.gerss.cn/dl/htv.php?id=65
@@ -102,6 +103,7 @@ HBO7,http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8？fluxustv.m3u8
 东森洋片3,mitv://190.2.149.54:18912/5b14092300021ad1076b0d328d567031.ts
 东森洋片4,mitv://sdgdklwos.finetv.tv:9906/59fd17860002b83302705f6a03a560d2
 東森洋片台(HD),http://58.99.33.2:1935/liveedge2/foNmEJqW_66_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2015
+东森洋片5,mitv://198.255.74.57:12396/5e50207a000ef5883d32e7001d1666d4.ts#http://192.154.103.75:8080//ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8 
 
 好萊塢電影,#genre#
 好萊塢電影1,http://t.gerss.cn/dl/htv.php?id=68
@@ -153,6 +155,7 @@ FOX動作,mitv://51.79.41.138:18912/5b140977000904d6def2b7bfc5996a48.ts
 FOX动作,P2p://190.2.149.54:18912/5b140977000904d6def2b7bfc5996a48.ts
 FOX动作1,mitv://190.2.149.54:18912/5b140977000904d6def2b7bfc5996a48.ts
 FOX動作電影 HD1,mitv://198.255.74.57:12196/5efcb9c50002fd26953766102f3fe4de.ts
+FOX動作電影 HD,mitv://198.255.74.57:12396/5e5020660007a1523d32970079e9e50d.ts
 
 CINEMAX,#genre#
 CINEMAX,http://t.gerss.cn/dl/htv.php?id=71
@@ -197,6 +200,7 @@ HBO原创1,mitv://190.2.149.54:18912/5c7249f30006ed2f1d5864de52e5054e.ts
 HBO原创巨献,mitv://sdgdklwos.finetv.tv:9906/59fd14fc0005019f026674e730ed03b5
 HBO Signature(HD),http://58.99.33.2:1935/liveedge2/foNmEJqW_221_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2015&dr=&mmmm=
 HBO Signature HD2,mitv://198.255.74.57:12196/5efcb9c500059f6a953766bdba014131.ts
+HBO Signature HD3,mitv://198.255.74.57:12396/5e502066000a4dfd3d3297afe1778d3a.ts
 
 HBO強檔,#genre#
 HBO強檔,http://t.gerss.cn/dl/htv.php?id=223
