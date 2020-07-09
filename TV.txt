@@ -14,9 +14,10 @@
 
 HBO,#genre#
 HBO,http://t.gerss.cn/dl/htv.php?id=65
-東森洋片台,http://t.gerss.cn/dl/htv.php?id=66
+
 
 東森洋片,#genre#
+東森洋片台,http://t.gerss.cn/dl/htv.php?id=66
 東森洋片HD,http://125.227.210.37:41320/VideoInput/play.ts
 东森洋片,p5p://47.244.180.114:9906/5db94609000c575753d44633704f1724&link=am0708lgif
 東森洋片,mitv://198.255.74.57:12196/5efcb9af00047c529537108249281ad2.ts
