@@ -1,44 +1,76 @@
-TV,#genre#
+江苏卫视,#genre#
 江苏卫视,http://112.50.243.8/PLTV/88888888/224/3221225847/1.m3u8
 江苏卫视1,http://101.71.255.229:6610/zjhs/2/10028/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+
+動物星球,#genre#
 動物星球,http://t.gerss.cn/dl/htv.php?id=12
 动物星球,p5p://47.244.180.114:9906/5db9412e000050e153c14bae3a472ded&link=am0708lgif
+動物星球1,mitv://198.255.74.57:12196/5f0601c1000b3e03b978988d7819a674.ts
+
+國家地理野生,#genre#
 國家地理野生,vjms://58.215.133.189:8500:5021/live/cid=263
 國家地理野生1,p5p://47.244.180.114:9906/5db948e1000dc58d53df625102eb1dd4&link=am0708lgif
+國家地理野生頻道 HD,mitv://198.255.74.57:12196/5f0601c50001d0a9b978a5c37c78833f.ts
+
+HBO,#genre#
 HBO,http://t.gerss.cn/dl/htv.php?id=65
 東森洋片台,http://t.gerss.cn/dl/htv.php?id=66
+
+東森洋片,#genre#
 東森洋片HD,http://125.227.210.37:41320/VideoInput/play.ts
 东森洋片,p5p://47.244.180.114:9906/5db94609000c575753d44633704f1724&link=am0708lgif
 東森洋片,mitv://198.255.74.57:12196/5efcb9af00047c529537108249281ad2.ts
+東森洋片1,mitv://198.255.74.57:12196/5f0601d0000ab092b978d301baff2eac.ts
+
+好萊塢電影,#genre#
 好萊塢電影1,http://t.gerss.cn/dl/htv.php?id=68
 好萊塢電影,http://125.227.210.37:47862/VideoInput/play.ts
 好莱坞电影,p5p://47.244.180.114:9906/5db94a0e000c946053e3f9ca114c5efa&link=am0708lgif
+好萊塢電影臺,mitv://198.255.74.57:12196/5f0601e6000e2290b97929d38fe52ce5.ts
+
+FOX MOVIES HD,#genre#
 FOX MOVIES HD,http://t.gerss.cn/dl/htv.php?id=69
 FOX MOVIES HD1,https://pullstream-ucan.speedws.com/live/aaa1038zzz/playlist.m3u8
 FOX HD,p5p://47.244.180.114:9906/5db940d0000e9efd53bfe0277cb553dc&link=am0708lgif
 FOX MOVIES HD2,http://58.99.33.9:1935/liveedge2/live_69_1.stream/chunklist2083437237.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+FOX MOVIES HD3,mitv://198.255.74.57:12196/5f0601ec000b89feb979409975530a87.ts
+
+FOX动作电影,#genre#
 FOX动作电影,http://192.154.103.75:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 FOX动作电影1,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 FOX Action,p5p://47.244.180.114:9906/5db948fd0007189153dfcdfb7f575fc2&link=am0708lgif
+
+CINEMAX,#genre#
 CINEMAX,http://t.gerss.cn/dl/htv.php?id=71
 CineMAX,p5p://47.244.180.114:9906/5db9459b000e029653d298f021b64405&link=am0708lgif
-CatchPlay电影,p5p://47.244.180.114:9906/5db9438e000daad953ca9619316a37eb&link=am0708lgif
-探索亞洲,http://t.gerss.cn/dl/htv.php?id=200
-Discovery Asia,http://125.227.210.37:20617/VideoInput/play.ts
-Discovery CHANNEL,p5p://47.244.180.114:9906/5db945f300019cc253d3ed8422870a1f&link=am0708lgif
+CINEMAX1,mitv://198.255.74.57:12196/5f0601ec00083757b9793fbfdd319d85.ts
+
+HBOHD,#genre#
 HBOHD1,http://t.gerss.cn/dl/htv.php?id=220
 HBOHD,http://125.227.210.37:12801/VideoInput/play.ts
 HBOHD2,https://pullstream-ucan.speedws.com/live/aaa1050zzz/playlist.m3u8
 HBOHD3,p5p://47.244.180.114:9906/5db945590004f34053d194ce2d966c86&link=am0708lgif
+HBO HD,mitv://198.255.74.57:12196/5f0601e6000a7cfeb97928e41d1d8b96.ts
+
+HBO原創,#genre#
 HBO原創,http://t.gerss.cn/dl/htv.php?id=221
 HBO Signature,p5p://47.244.180.114:9906/5db9456800043c2553d1cf38417452a1&link=am0708lgif
+HBO Signature HD,mitv://198.255.74.57:12196/5f0601ec000e22c5b97941434cb02537.ts
+
+HBO強檔,#genre#
 HBO強檔,http://t.gerss.cn/dl/htv.php?id=223
-HBO Hits,p5p://47.244.180.114:9906/5db9458e000792a353d264823a7640f0&link=am0708lgif
+HBO Hits1,p5p://47.244.180.114:9906/5db9458e000792a353d264823a7640f0&link=am0708lgif
+HBO Hits,mitv://198.255.74.57:12196/5f0601ec000ef6d4b9794179c2bc8a3e.ts
+
+Test,#genre#
 Star Movies HD,http://125.227.210.37:61495/VideoInput/play.ts
 龙华洋片,p5p://47.244.180.114:9906/5db9461600030af853d476994e892955&link=am0708lgif
 龍華洋片,mitv://198.255.74.57:12196/5efcb9b20003b4ad95371c071f5b1c8b.ts
-
-
-
-
+龍華洋片1,mitv://198.255.74.57:12196/5f0601d4000af2a8b978e2b2802a4297.ts
+衛視西片 HD,mitv://198.255.74.57:12196/5f0601e7000240ccb9792ab006a807bb.ts
+CatchPlay电影,p5p://47.244.180.114:9906/5db9438e000daad953ca9619316a37eb&link=am0708lgif
+CatchPlay HD,mitv://198.255.74.57:12196/5f0601bd0006092db97887982c7f7764.ts
+探索亞洲,http://t.gerss.cn/dl/htv.php?id=200
+Discovery Asia,http://125.227.210.37:20617/VideoInput/play.ts
+Discovery CHANNEL,p5p://47.244.180.114:9906/5db945f300019cc253d3ed8422870a1f&link=am0708lgif
 
