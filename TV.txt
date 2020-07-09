@@ -65,10 +65,10 @@ HBO Hits,mitv://198.255.74.57:12196/5f0601ec000ef6d4b9794179c2bc8a3e.ts
 
 Test,#genre#
 Star Movies HD,http://125.227.210.37:61495/VideoInput/play.ts
+Star Movies HD1 HD,mitv://198.255.74.57:12196/5f0601e7000240ccb9792ab006a807bb.ts
 龙华洋片,p5p://47.244.180.114:9906/5db9461600030af853d476994e892955&link=am0708lgif
 龍華洋片,mitv://198.255.74.57:12196/5efcb9b20003b4ad95371c071f5b1c8b.ts
 龍華洋片1,mitv://198.255.74.57:12196/5f0601d4000af2a8b978e2b2802a4297.ts
-衛視西片 HD,mitv://198.255.74.57:12196/5f0601e7000240ccb9792ab006a807bb.ts
 CatchPlay电影,p5p://47.244.180.114:9906/5db9438e000daad953ca9619316a37eb&link=am0708lgif
 CatchPlay HD,mitv://198.255.74.57:12196/5f0601bd0006092db97887982c7f7764.ts
 探索亞洲,http://t.gerss.cn/dl/htv.php?id=200
