@@ -520,7 +520,6 @@ Hot欧美影院限免 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL0
 新馬|全佳,P2p://198.255.74.57:12196/5f0601a60006e135b9782df744291be6.ts
 新馬|双星,P2p://198.255.74.57:12196/5f0601a600060051b9782dbe246b838f.ts
 
-KT IPTV,#genre#
 中国央视,#genre#
 CCTV-1综合,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8#http://39.134.65.5:80/wh7f454c46tw1779189724_-426919067/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225587/index.m3u8?icpid=88888888&RTS=1554599551&from=1&hms_devid=4#http://stream4.jlntv.cn/cctv1/sd/live.m3u8
 CCTV-2财经,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8#http://121.31.30.87:8085/ysten-business/live/cctv-2/1.m3u8#http://103.148.44.22:8876/play/a01e
