@@ -58,45 +58,47 @@
 
 國家地理野生,#genre#
 《國家地理野生》,vjms://58.215.133.189:8500:5021/live/cid=263
-國家地理野生1,p5p://47.244.180.114:9906/5db948e1000dc58d53df625102eb1dd4&link=am0708lgif
+*國家地理野生1,p5p://47.244.180.114:9906/5db948e1000dc58d53df625102eb1dd4&link=am0708lgif
 國家地理野生頻道 HD,mitv://198.255.74.57:12196/5f0601c50001d0a9b978a5c37c78833f.ts
-國家地理野生頻道 HD1,mitv://198.255.74.57:12396/5e502063000465923d328a746d4c01dd.ts
-國家地理野生2,P2p://51.79.41.138:18912/5c7249fb000db88c1d5885e333974925
-國家地理野生3,vjms://58.215.133.161:8500/live/cid=263
-國家地理野生4,mitv://190.2.146.92:18912/5c7249fb000db88c1d5885e333974925.ts
-地理野生频道 HD,P2p://lino.homeunix.com:6007/59fd082b000c6ca7023466633fed4c93.ts
-國家地理野生HD,http://tv.kksyw.top/tv_157/gat/hatv.php?id=114
-Nat Geo Wild,mitv://51.79.41.138:18912/5b1409170007d3427577583c60df8661.ts
-国家地理野生,P2p://190.2.149.54:18912/5c7249fb000db88c1d5885e333974925.ts
-国家地理野生1,mitv://190.2.149.54:18912/5c7249fb000db88c1d5885e333974925.ts
-國家地理野生5,mitv://51.79.41.138:18912/5c7249fb000db88c1d5885e333974925.ts
-国家地理野生2,vjms://58.215.133.185:8500:3502/live/cid=263#vjms://121.14.222.75:8500:3502/live/cid=263#vjms://23.237.33.155:8500:3502/live/cid=263
-国家地理野生3,http://39.134.135.12:80/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1594133835-1-1579912753.hls.ts
-國家地理野生頻道 HD2,mitv://198.255.74.57:12196/5efcb9a60006a8879536ede996e4d711.ts
-國家野生,http://f9.apps1818.com:8080/live/1038/14609b15b757bb8120d318ade317eeb9/index.m3u8
-國家地理野生頻道 HD3,mitv://198.255.74.57:12396/5e502063000465923d328a746d4c01dd.ts
+*國家地理野生頻道 HD1,mitv://198.255.74.57:12396/5e502063000465923d328a746d4c01dd.ts
+*國家地理野生2,P2p://51.79.41.138:18912/5c7249fb000db88c1d5885e333974925
+*國家地理野生3,vjms://58.215.133.161:8500/live/cid=263
+*國家地理野生4,mitv://190.2.146.92:18912/5c7249fb000db88c1d5885e333974925.ts
+*地理野生频道 HD,P2p://lino.homeunix.com:6007/59fd082b000c6ca7023466633fed4c93.ts
+*國家地理野生HD,http://tv.kksyw.top/tv_157/gat/hatv.php?id=114
+*Nat Geo Wild,mitv://51.79.41.138:18912/5b1409170007d3427577583c60df8661.ts
+*国家地理野生,P2p://190.2.149.54:18912/5c7249fb000db88c1d5885e333974925.ts
+*国家地理野生1,mitv://190.2.149.54:18912/5c7249fb000db88c1d5885e333974925.ts
+*國家地理野生5,mitv://51.79.41.138:18912/5c7249fb000db88c1d5885e333974925.ts
+*国家地理野生2,vjms://58.215.133.185:8500:3502/live/cid=263
+*国家地理野生4,vjms://121.14.222.75:8500:3502/live/cid=263
+*国家地理野生5,vjms://23.237.33.155:8500:3502/live/cid=263
+*国家地理野生3,http://39.134.135.12:80/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1594133835-1-1579912753.hls.ts
+*國家地理野生頻道 HD2,mitv://198.255.74.57:12196/5efcb9a60006a8879536ede996e4d711.ts
+*國家野生,http://f9.apps1818.com:8080/live/1038/14609b15b757bb8120d318ade317eeb9/index.m3u8
+*國家地理野生頻道 HD3,mitv://198.255.74.57:12396/5e502063000465923d328a746d4c01dd.ts
 
 好萊塢電影,#genre#
 《好萊塢電影》,http://125.227.210.37:47862/VideoInput/play.ts
-好萊塢電影1,http://t.gerss.cn/dl/htv.php?id=68
-好莱坞电影,p5p://47.244.180.114:9906/5db94a0e000c946053e3f9ca114c5efa&link=am0708lgif
+*好萊塢電影1,http://t.gerss.cn/dl/htv.php?id=68
+*好莱坞电影,p5p://47.244.180.114:9906/5db94a0e000c946053e3f9ca114c5efa&link=am0708lgif
 好萊塢電影臺,mitv://198.255.74.57:12196/5f0601e6000e2290b97929d38fe52ce5.ts
-好莱坞电影1,http://192.200.120.82:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
-好莱坞电影2,mitv://198.255.74.57:12396/5e5020690009caca3d32a3469e5e4340.ts
-好莱坞电影3,http://104.250.154.42:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
-好莱坞电影4,http://ter.live2.ksmobile.net/yolo/6fcd5b16f6e34f8eb5630a17f946955c.flv
-好萊塢電影2,P2p://51.79.41.138:18912/5c7249e2000125281d5820ff23a165d1
-好萊塢電影3,p2p://190.2.146.92:18912/5c7249e2000125281d5820ff23a165d1.ts
-好萊塢電影4,mitv://190.2.146.92:18912/5c7249e2000125281d5820ff23a165d1.ts
-好萊塢,http://104.250.154.42:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
-好萊塢電影5,http://tv.kksyw.top/tv_157/gat/hatv.php?id=68
-好萊塢電影6,mitv://51.79.41.138:18912/5b1409f3000c1df53f7ba0012d829cba.ts
+*好莱坞电影1,http://192.200.120.82:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
+*好莱坞电影2,mitv://198.255.74.57:12396/5e5020690009caca3d32a3469e5e4340.ts
+*好莱坞电影3,http://104.250.154.42:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
+*好莱坞电影4,http://ter.live2.ksmobile.net/yolo/6fcd5b16f6e34f8eb5630a17f946955c.flv
+*好萊塢電影2,P2p://51.79.41.138:18912/5c7249e2000125281d5820ff23a165d1
+*好萊塢電影3,p2p://190.2.146.92:18912/5c7249e2000125281d5820ff23a165d1.ts
+*好萊塢電影4,mitv://190.2.146.92:18912/5c7249e2000125281d5820ff23a165d1.ts
+*好萊塢,http://104.250.154.42:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
+*好萊塢電影5,http://tv.kksyw.top/tv_157/gat/hatv.php?id=68
+*好萊塢電影6,mitv://51.79.41.138:18912/5b1409f3000c1df53f7ba0012d829cba.ts
 好莱坞电影[1280*720],http://192.154.103.75:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
-好莱坞电影5,mitv://sdgdklwos.finetv.tv:9906/5a141b66000b4be65f90135822b40e43
-好萊塢电影7,mitv://51.79.41.138:18912/5c7249e2000125281d5820ff23a165d1.ts
-Hollywood Movies,http://185.93.2.35:12012/live/359111068247FFA1/pAggUvYKD6HbSHDAyuTp_xKpr8ILq5abwotcswPdXxPv5Pz5WRtgqR2bESEGYW8S/AF910DBA4003497B/228803.ts
-好萊塢電影台(HD),http://58.99.33.2:1935/liveedge2/foNmEJqW_68_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2015
-好萊塢電影臺1,mitv://198.255.74.57:12196/5efcb9c1000d503e95375915d5436bdd.ts
+*好莱坞电影5,mitv://sdgdklwos.finetv.tv:9906/5a141b66000b4be65f90135822b40e43
+*好萊塢电影7,mitv://51.79.41.138:18912/5c7249e2000125281d5820ff23a165d1.ts
+*Hollywood Movies,http://185.93.2.35:12012/live/359111068247FFA1/pAggUvYKD6HbSHDAyuTp_xKpr8ILq5abwotcswPdXxPv5Pz5WRtgqR2bESEGYW8S/AF910DBA4003497B/228803.ts
+*好萊塢電影台(HD),http://58.99.33.2:1935/liveedge2/foNmEJqW_68_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2015
+*好萊塢電影臺1,mitv://198.255.74.57:12196/5efcb9c1000d503e95375915d5436bdd.ts
 
 FOX MOVIES HD,#genre#
 《FOX MOVIES HD》,https://pullstream-ucan.speedws.com/live/aaa1038zzz/playlist.m3u8
@@ -114,16 +116,16 @@ FOX MOVIES HD3,mitv://198.255.74.57:12196/5f0601ec000b89feb979409975530a87.ts
 FOX动作电影,#genre#
 《FOX动作电影》,http://192.154.103.75:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 FOX动作电影1,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
-FOX Action,p5p://47.244.180.114:9906/5db948fd0007189153dfcdfb7f575fc2&link=am0708lgif
+*FOX Action,p5p://47.244.180.114:9906/5db948fd0007189153dfcdfb7f575fc2&link=am0708lgif
 *福克斯电影,http://192.200.120.82:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 *福克斯电影1,vjms://58.215.133.185:8500:3502/live/cid=94
-FOX動作電影 HD,mitv://198.255.74.57:12396/5e5020660007a1523d32970079e9e50d.ts
-FOX 动作电影 HD,P2p://lino.homeunix.com:6007/59fd244900002be402a238767364317b.ts
-FOX動作,mitv://51.79.41.138:18912/5b140977000904d6def2b7bfc5996a48.ts
-FOX动作,P2p://190.2.149.54:18912/5b140977000904d6def2b7bfc5996a48.ts
-FOX动作1,mitv://190.2.149.54:18912/5b140977000904d6def2b7bfc5996a48.ts
-FOX動作電影 HD1,mitv://198.255.74.57:12196/5efcb9c50002fd26953766102f3fe4de.ts
-FOX動作電影 HD,mitv://198.255.74.57:12396/5e5020660007a1523d32970079e9e50d.ts
+*FOX動作電影 HD,mitv://198.255.74.57:12396/5e5020660007a1523d32970079e9e50d.ts
+*FOX 动作电影 HD,P2p://lino.homeunix.com:6007/59fd244900002be402a238767364317b.ts
+*FOX動作,mitv://51.79.41.138:18912/5b140977000904d6def2b7bfc5996a48.ts
+*FOX动作,P2p://190.2.149.54:18912/5b140977000904d6def2b7bfc5996a48.ts
+*FOX动作1,mitv://190.2.149.54:18912/5b140977000904d6def2b7bfc5996a48.ts
+*FOX動作電影 HD1,mitv://198.255.74.57:12196/5efcb9c50002fd26953766102f3fe4de.ts
+*FOX動作電影 HD2,mitv://198.255.74.57:12396/5e5020660007a1523d32970079e9e50d.ts
 
 HBOHD,#genre#
 《HBOHD》,http://125.227.210.37:12801/VideoInput/play.ts
@@ -206,18 +208,17 @@ Cinemax,http://mszb198610.5ay.xyz/mszbgzgdtvcm000.php?id=cinemax
 东森洋片5,mitv://198.255.74.57:12396/5e50207a000ef5883d32e7001d1666d4.ts#http://192.154.103.75:8080//ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8 
 
 HBO,#genre#
-HBO,http://t.gerss.cn/dl/htv.php?id=65
-HBO1,http://tv.kksyw.top/tv_157/gat/hatv.php?id=65
+*HBO,http://t.gerss.cn/dl/htv.php?id=65
+*HBO1,http://tv.kksyw.top/tv_157/gat/hatv.php?id=65
 HBO Asia[480*320],http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
 HBO 亚洲频道[720*576],http://106.54.30.243/gz009/gz.php?id=hbo
-HBO2,mitv://51.79.41.138:18912/5b140969000be13c0cfc86fe60fae30e.ts
-HBO3,mitv://190.2.146.92:18912/5b140969000be13c0cfc86fe60fae30e.ts
-HBOCA,mitv://190.2.146.92:18912/5cf559de000079adcdde0dc544e5ef7a.ts
-HBOCA2,mitv://190.2.146.92:18912/5cffd799000ddb761e0369fa71c185da.ts
-HBO4,P2p://190.2.149.54:18912/5c7249dd000ca2101d58106551ff3ed4.ts
-HBO5,mitv://190.2.149.54:18912/5c7249dd000ca2101d58106551ff3ed4.ts
-HBO6,mitv://sdgdklwos.finetv.tv:9906/59fd1566000391610268129978510d8e
-HBO7,http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8？fluxustv.m3u8
+*HBO2,mitv://51.79.41.138:18912/5b140969000be13c0cfc86fe60fae30e.ts
+*HBO3,mitv://190.2.146.92:18912/5b140969000be13c0cfc86fe60fae30e.ts
+*HBO4,P2p://190.2.149.54:18912/5c7249dd000ca2101d58106551ff3ed4.ts
+*HBO5,mitv://190.2.149.54:18912/5c7249dd000ca2101d58106551ff3ed4.ts
+*HBO6,mitv://sdgdklwos.finetv.tv:9906/59fd1566000391610268129978510d8e
+*HBO7,http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8？fluxustv.m3u8
+*HBO8,http://tx.pull.yximgs.com/live/twhbo_MTU5NDQyNDQwNQ.flv?txSecret=d8f4991ce9b0a207153a355cc8df3a7b&txTime=5F0901C8
 
 Test,#genre#
 《Star Movies HD》,http://125.227.210.37:61495/VideoInput/play.ts
@@ -252,15 +253,14 @@ CatchPlay HD2,mitv://198.255.74.57:12196/5efcb9a000069fb19536d677884eea7f.ts
 江苏卫视,http://118.123.60.6:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=001&Provider_id=&Pcontent_id=index.m3u8
 江苏卫视,http://121.31.30.91:8081/ysten-business/live/hdjiangsustv/1.m3u8
 江苏卫视,http://125.210.152.18:9090/live/JSWSHD_H265.m3u8
-HBO,http://tx.pull.yximgs.com/live/twhbo_MTU5NDQyNDQwNQ.flv?txSecret=d8f4991ce9b0a207153a355cc8df3a7b&txTime=5F0901C8
-好莱坞,http://admin.freeyun.tk/iptv.php?qq1658083247&play&vkeys=dmlkJTNEeXlsaXZlJTIzaWQlM0QzMTgzNzQyNw__
-CIBN好莱坞,https://live.elibei.com/tv/channel/cibn?id=34
+
+
 CIBN好莱坞,http://v.iam7.top/iptv/cibn/?id=1108&code=ZongHe
 歐美影院,http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10037&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=Q894B3E8EEZ3T19UG09L8B03GSWB&ts=1553493266
-江苏卫视 7M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000304/index.m3u8
-Hot欧美影院限免 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002003/index.m3u8
-江苏卫视 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000018/index.m3u8
-江苏卫视,http://120.221.5.113:8089/PLTV/88888888/224/3221225923/index.m3u8
+*江苏卫视 7M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000304/index.m3u8
+*Hot欧美影院限免 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002003/index.m3u8
+*江苏卫视 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000018/index.m3u8
+*江苏卫视,http://120.221.5.113:8089/PLTV/88888888/224/3221225923/index.m3u8
 
 
 
@@ -521,6 +521,13 @@ Hot欧美影院限免 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL0
 新馬|小太陽,P2p://198.255.74.57:12196/5f0601a60007b5a2b9782e2ef858c9d5.ts
 新馬|全佳,P2p://198.255.74.57:12196/5f0601a60006e135b9782df744291be6.ts
 新馬|双星,P2p://198.255.74.57:12196/5f0601a600060051b9782dbe246b838f.ts
+
+
+
+
+
+
+
 
 中国央视,#genre#
 CCTV-1综合,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8#http://39.134.65.5:80/wh7f454c46tw1779189724_-426919067/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225587/index.m3u8?icpid=88888888&RTS=1554599551&from=1&hms_devid=4#http://stream4.jlntv.cn/cctv1/sd/live.m3u8
